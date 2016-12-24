@@ -1,0 +1,8 @@
+--------------------------------------------------------------
+Checking the installed adaptors: imaqhwinfo
+				  More Info: http://it.mathworks.com/help/imaq/imaqhwinfo.html
+
+--------------------------------------------------------------
+			Instructions from: http://it.mathworks.com/help/imaq/installing-the-support-packages-for-image-acquisition-toolbox-adaptors.html
+						 From: supportPackageInstaller
+Install the following package: OS Generic Video Interface
